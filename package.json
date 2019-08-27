@@ -172,7 +172,7 @@
     "vscode": "^1.1.33",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
-    "webpack-merge": "^4.2.1"
+    "webpack-merge": "^4.2.2"
   },
   "dependencies": {
     "@octokit/rest": "^16.23.2",
